@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbab98c4-deb8-4d19-9c37-a5cf140c083d" name="Changes" comment="Fourth snack" />
+    <list default="true" id="bbab98c4-deb8-4d19-9c37-a5cf140c083d" name="Changes" comment="Fifth snack">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.SnackBonusSix.executor": "Run",
     "Application.SnackFive.executor": "Run",
     "Application.SnackFour.executor": "Run",
     "Application.SnackOne.executor": "Run",
@@ -116,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715863599778</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fifth snack">
+      <option name="closed" value="true" />
+      <created>1715863897693</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715863897693</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -124,6 +135,7 @@
     <MESSAGE value="second snack" />
     <MESSAGE value="Third snack" />
     <MESSAGE value="Fourth snack" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fourth snack" />
+    <MESSAGE value="Fifth snack" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fifth snack" />
   </component>
 </project>
