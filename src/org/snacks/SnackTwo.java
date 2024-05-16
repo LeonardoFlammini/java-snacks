@@ -16,9 +16,12 @@ public class SnackTwo {
                 "Rossi", "Ferrari", "Russo", "Bianchi", "Romano",
                 "Gallo", "Costa", "Fontana", "Conti", "Esposito"
         };
-        String[] invitati = new String[10];
 
-        for( int i = 0; i<10; i ++){
+        int n = 10;
+
+        String[] invitati = new String[n];
+
+        for( int i = 0; i<n; i ++){
             int randA = random.nextInt(0 ,9);
             int randB = random.nextInt(0 ,9);
             invitati[i] = nomi[randA] + " " + cognomi[randB];

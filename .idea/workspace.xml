@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbab98c4-deb8-4d19-9c37-a5cf140c083d" name="Changes" comment="first snack">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="bbab98c4-deb8-4d19-9c37-a5cf140c083d" name="Changes" comment="second snack">
+      <change beforePath="$PROJECT_DIR$/src/org/snacks/SnackTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/snacks/SnackTwo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.SnackOne.executor": "Run",
+    "Application.SnackTwo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -90,11 +91,20 @@
       <option name="project" value="LOCAL" />
       <updated>1715861573807</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second snack">
+      <option name="closed" value="true" />
+      <created>1715862342148</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715862342148</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first snack" />
-    <option name="LAST_COMMIT_MESSAGE" value="first snack" />
+    <MESSAGE value="second snack" />
+    <option name="LAST_COMMIT_MESSAGE" value="second snack" />
   </component>
 </project>
